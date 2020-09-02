@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\Week2Assignment1Exercise1\Week2Assignment1Exercise1\obj\Debug\Week2Assignment1Exercise1.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Week2Assignment1Exercise1\Week2Assignment1Exercise1\obj\Debug\Week2Assignment1Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Week2Assignment1Exercise1\Week2Assignment1Exercise1\bin\Debug\Week2Assignment1Exercise1.exe.config
+C:\Users\Student\source\repos\Week2Assignment1Exercise1\Week2Assignment1Exercise1\bin\Debug\Week2Assignment1Exercise1.exe
+C:\Users\Student\source\repos\Week2Assignment1Exercise1\Week2Assignment1Exercise1\bin\Debug\Week2Assignment1Exercise1.pdb
+C:\Users\Student\source\repos\Week2Assignment1Exercise1\Week2Assignment1Exercise1\obj\Debug\Week2Assignment1Exercise1.exe
+C:\Users\Student\source\repos\Week2Assignment1Exercise1\Week2Assignment1Exercise1\obj\Debug\Week2Assignment1Exercise1.pdb
