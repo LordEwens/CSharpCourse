@@ -1,0 +1,27 @@
+c:\users\deltagare\documents\visual studio 2015\Projects\CSharpBasicAssignment\CSharpBasicAssignment\bin\Debug\CSharpBasicAssignment.exe.config
+c:\users\deltagare\documents\visual studio 2015\Projects\CSharpBasicAssignment\CSharpBasicAssignment\bin\Debug\CSharpBasicAssignment.exe
+c:\users\deltagare\documents\visual studio 2015\Projects\CSharpBasicAssignment\CSharpBasicAssignment\bin\Debug\CSharpBasicAssignment.pdb
+c:\users\deltagare\documents\visual studio 2015\Projects\CSharpBasicAssignment\CSharpBasicAssignment\obj\Debug\CSharpBasicAssignment.csprojResolveAssemblyReference.cache
+c:\users\deltagare\documents\visual studio 2015\Projects\CSharpBasicAssignment\CSharpBasicAssignment\obj\Debug\CSharpBasicAssignment.exe
+c:\users\deltagare\documents\visual studio 2015\Projects\CSharpBasicAssignment\CSharpBasicAssignment\obj\Debug\CSharpBasicAssignment.pdb
+C:\Users\Deltagare\Documents\Visual Studio 2017\Projects\CSharpBasicAssignment\CSharpBasicAssignment\bin\Debug\CSharpBasicAssignment.exe.config
+C:\Users\Deltagare\Documents\Visual Studio 2017\Projects\CSharpBasicAssignment\CSharpBasicAssignment\bin\Debug\CSharpBasicAssignment.exe
+C:\Users\Deltagare\Documents\Visual Studio 2017\Projects\CSharpBasicAssignment\CSharpBasicAssignment\bin\Debug\CSharpBasicAssignment.pdb
+C:\Users\Deltagare\Documents\Visual Studio 2017\Projects\CSharpBasicAssignment\CSharpBasicAssignment\obj\Debug\CSharpBasicAssignment.exe
+C:\Users\Deltagare\Documents\Visual Studio 2017\Projects\CSharpBasicAssignment\CSharpBasicAssignment\obj\Debug\CSharpBasicAssignment.pdb
+C:\Users\Deltagare\Documents\Visual Studio 2017\Projects\CSharpBasicAssignment\CSharpBasicAssignment\obj\Debug\CSharpBasicAssignment.csprojAssemblyReference.cache
+C:\Users\Deltagare\Documents\Visual Studio 2017\Projects\CSharpBasicAssignment\CSharpBasicAssignment\obj\Debug\CSharpBasicAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\Assignment - 01 CSharp Basics - Week1\CSharpBasicAssignment\CSharpBasicAssignment\CSharpBasicAssignment\bin\Debug\CSharpBasicAssignment.exe.config
+C:\Users\Student\Downloads\Assignment - 01 CSharp Basics - Week1\CSharpBasicAssignment\CSharpBasicAssignment\CSharpBasicAssignment\bin\Debug\CSharpBasicAssignment.exe
+C:\Users\Student\Downloads\Assignment - 01 CSharp Basics - Week1\CSharpBasicAssignment\CSharpBasicAssignment\CSharpBasicAssignment\bin\Debug\CSharpBasicAssignment.pdb
+C:\Users\Student\Downloads\Assignment - 01 CSharp Basics - Week1\CSharpBasicAssignment\CSharpBasicAssignment\CSharpBasicAssignment\obj\Debug\CSharpBasicAssignment.csprojAssemblyReference.cache
+C:\Users\Student\Downloads\Assignment - 01 CSharp Basics - Week1\CSharpBasicAssignment\CSharpBasicAssignment\CSharpBasicAssignment\obj\Debug\CSharpBasicAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\Assignment - 01 CSharp Basics - Week1\CSharpBasicAssignment\CSharpBasicAssignment\CSharpBasicAssignment\obj\Debug\CSharpBasicAssignment.exe
+C:\Users\Student\Downloads\Assignment - 01 CSharp Basics - Week1\CSharpBasicAssignment\CSharpBasicAssignment\CSharpBasicAssignment\obj\Debug\CSharpBasicAssignment.pdb
+C:\Users\Student\Documents\David Ewens\Assignment - 01 CSharp Basics - Week1\CSharpBasicAssignment\CSharpBasicAssignment\CSharpBasicAssignment\bin\Debug\CSharpBasicAssignment.exe.config
+C:\Users\Student\Documents\David Ewens\Assignment - 01 CSharp Basics - Week1\CSharpBasicAssignment\CSharpBasicAssignment\CSharpBasicAssignment\bin\Debug\CSharpBasicAssignment.exe
+C:\Users\Student\Documents\David Ewens\Assignment - 01 CSharp Basics - Week1\CSharpBasicAssignment\CSharpBasicAssignment\CSharpBasicAssignment\bin\Debug\CSharpBasicAssignment.pdb
+C:\Users\Student\Documents\David Ewens\Assignment - 01 CSharp Basics - Week1\CSharpBasicAssignment\CSharpBasicAssignment\CSharpBasicAssignment\obj\Debug\CSharpBasicAssignment.csprojAssemblyReference.cache
+C:\Users\Student\Documents\David Ewens\Assignment - 01 CSharp Basics - Week1\CSharpBasicAssignment\CSharpBasicAssignment\CSharpBasicAssignment\obj\Debug\CSharpBasicAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\David Ewens\Assignment - 01 CSharp Basics - Week1\CSharpBasicAssignment\CSharpBasicAssignment\CSharpBasicAssignment\obj\Debug\CSharpBasicAssignment.exe
+C:\Users\Student\Documents\David Ewens\Assignment - 01 CSharp Basics - Week1\CSharpBasicAssignment\CSharpBasicAssignment\CSharpBasicAssignment\obj\Debug\CSharpBasicAssignment.pdb
