@@ -21,7 +21,7 @@ namespace Assignment2_SchoolApplication
             Teacher teacherOne = new Teacher("Nalini", "LastName", new DateTime(1980, 01, 01));
             Console.WriteLine("Age: {0}", teacherOne.GetAge());
             Console.WriteLine("ToString: {0}", teacherOne.ToString());
-
+            
             Console.ReadKey();
         }
         
@@ -90,4 +90,64 @@ namespace Assignment2_SchoolApplication
 
     }
 
+    public class Course
+    {
+        string courseName;
+        Teacher courseTeacher;
+        List<Student> studentList = new List<Student>();
+        int courseId;
+        private static int courseIdCount = 1;
+
+        public Course(string cName, Teacher cTeacher, List<Student> cStudents)
+        {
+            this.courseName = cName;
+            this.courseTeacher = cTeacher;
+            this.studentList = cStudents;
+            this.courseId = courseIdCount;
+            courseIdCount++;
+        }
+        
+        /*
+        public string GetCourseName()
+        {
+            return this.courseName;
+        }
+        public Teacher GetTeacher()
+        {
+            return this.courseTeacher;
+        }
+        */
+    }
+
+    // Part 4
+    public class Grade
+    {
+        Course gradeCourse;
+        Student gradeStudent;
+        DateTime dateAcquired;
+        enum Grades { A, B, C, D, E, F };
+        Grades gradeOfCourse;
+
+        public override string ToString()
+        {
+            switch (gradeOfCourse)
+            {
+                case Grades.A:
+                    return "Very Good";
+                case Grades.B:
+                    return "Good";
+                case Grades.C:
+                    return "Okay";
+                case Grades.D:
+                    return "Not so good.";
+                case Grades.E:
+                    return "Bad.";
+                case Grades.F:
+                    return "Very bad.";
+                default:
+                    return "Grade error.";
+            }
+            
+        }
+    }
 }
