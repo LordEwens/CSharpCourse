@@ -13,9 +13,15 @@ namespace Assignment2_SchoolApplication
             Student studentOne = new Student("David", "Ewens", new DateTime(1989, 10, 29));
             Console.WriteLine("Age: {0}", studentOne.GetAge());
             Console.WriteLine("ToString: {0}", studentOne.ToString());
+
             Student studentTwo = new Student("Teresa", "Rilling", new DateTime(1959, 10, 14));
             Console.WriteLine("Age: {0}", studentTwo.GetAge());
             Console.WriteLine("ToString: {0}", studentTwo.ToString());
+
+            Teacher teacherOne = new Teacher("Nalini", "LastName", new DateTime(1980, 01, 01));
+            Console.WriteLine("Age: {0}", teacherOne.GetAge());
+            Console.WriteLine("ToString: {0}", teacherOne.ToString());
+
             Console.ReadKey();
         }
         
@@ -28,7 +34,7 @@ namespace Assignment2_SchoolApplication
         string lastNameStudent;
         DateTime dateOfBirthStudent;
         int studentId;
-        private static int studentIdCount = 0;
+        private static int studentIdCount = 1;
 
         public Student(string firstName, string lastName, DateTime dateOfBirth)
         {
@@ -52,4 +58,36 @@ namespace Assignment2_SchoolApplication
         }
 
     }
+
+    public class Teacher // Part 2
+    {
+        string firstNameTeacher;
+        string lastNameTeacher;
+        DateTime dateOfBirthTeacher;
+        int teacherId;
+        private static int teacherIdCount = 1;
+
+        public Teacher(string firstName, string lastName, DateTime dateOfBirth)
+        {
+            this.firstNameTeacher = firstName;
+            this.lastNameTeacher = lastName;
+            this.dateOfBirthTeacher = dateOfBirth;
+            this.teacherId = teacherIdCount;
+            teacherIdCount++;
+        }
+        public override string ToString() // Return full name, DOB, Student ID in readable format
+        {
+            string returnString = String.Concat(this.firstNameTeacher, " ", this.lastNameTeacher, " ", this.dateOfBirthTeacher.ToShortDateString(), " ", this.teacherId);
+            return returnString;
+        }
+        public int GetAge()
+        {
+            int ageInYears = 0;
+            TimeSpan daysSinceBirth = DateTime.Now - this.dateOfBirthTeacher;
+            ageInYears = daysSinceBirth.Days / 365;
+            return ageInYears;
+        }
+
+    }
+
 }
